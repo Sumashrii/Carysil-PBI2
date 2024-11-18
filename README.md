@@ -1,5 +1,9 @@
 # Carysil-PBI2
   We Are Looking For Dashboard where we can check our Financial Performance and various financial metrics to judge our business
+  Power Bi Report For carysil Project : <a href "https://github.com/Sumashrii/Carysil-PBI2/blob/main/Carysil.pbix"
+  Data : <a href "https://github.com/Sumashrii/Carysil-PBI/blob/main/Carysil%20OG%20DIM.xlsx"
+  Power Bi Report PDF: <a href "https://github.com/Sumashrii/Carysil-PBI2/blob/main/Carysil%20Project%20PDF.pdf"
+  Power Bi Report Screenshort: <a href "https://github.com/Sumashrii/Carysil-PBI2/blob/main/Carysil%20Project%20PDF.pdf"
 # Carysil Financial Analysis
   Understanding The Business
   Understand the Data First To Understand the Business in Better Way….Excel
