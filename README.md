@@ -6,7 +6,7 @@
   
   3. Power Bi Report PDF: <a href "https://github.com/Sumashrii/Carysil-PBI2/blob/main/carysilproject1pdf.pdf" </a>
   
-  4. Power Bi Report Screenshort: <a href "https://github.com/Sumashrii/Carysil-PBI2/blob/main/Screenshot%202024-11-18%20220152.png" </a>
+  4. Power Bi Report Screenshot: <a href "https://github.com/Sumashrii/Carysil-PBI2/blob/main/Screenshot%202024-11-18%20220152.png" </a>
 # Carysil Financial Analysis
   Understanding The Business
   Understand the Data First To Understand the Business in Better Way….Excel
